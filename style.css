@@ -1,0 +1,23 @@
+body {
+        font-family: Arial, sans-serif;
+    }
+    table {
+        border: 2px solid black;
+        background-color: #00bfff;
+        width: 500px;
+        margin: 20px auto;
+        border-collapse: collapse;
+    }
+    td {
+        border: 1px solid black;
+        padding: 8px;
+    }
+   caption {
+        background-color: #ffffcc;
+        color: red;
+        font-size: 22px;
+        font-weight: bold;
+        text-align: center;
+        border: 2px solid black;
+    }
+   
